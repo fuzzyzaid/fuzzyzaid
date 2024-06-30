@@ -13,15 +13,14 @@ A comprehensive system for managing employee records, timesheets, and more. Deve
 ### [DiZtal Diary](https://github.com/digital-diary-zaid)
 A modern interface for users to record their daily notes securely. Developed using the MERN stack.
 
-### [EGrocery](https://github.com/fuzzyzaid/EGrocery)
-An e-commerce website for groceries built using vanilla JavaScript, CSS3, and HTML5.
-
 ### [Home Haven](https://github.com/fuzzyzaid/Home_Haven)
 A go-to destination for all your home furnishing needs. Built using ASP.NET Core MVC and SQL databases.
 
 ### [Healthy Harbor](https://github.com/fuzzyzaid/Healthy_Harbor)
 An e-commerce application for groceries developed using Android Studio, offering a seamless and user-friendly shopping experience.
 
+### [Bookstore](https://github.com/fuzzyzaid/Bookstore)
+An online bootstore to get your favourite books, built using ASP .net.
 ## Contact
 
 - [My Portfolio](https://zaidalam.me/)
