@@ -29,4 +29,3 @@ A go-to destination for all your home furnishing needs. Built using ASP.NET Core
 An E-Commerce application for groceries developed using Android Studio offerring a seamless and user-friendly shopping experience.
 <a href="https://github.com/fuzzyzaid/Healthy_Harbor" target="_blank">View Project</a>
 
-Feel free to explore and contribute!
