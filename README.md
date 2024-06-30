@@ -30,3 +30,4 @@ An E-Commerce application for groceries developed using Android Studio offerring
 <a href="https://github.com/fuzzyzaid/Healthy_Harbor" target="_blank">View Project</a>
 
 Feel free to explore and contribute!
+[View Project](https://github.com/fuzzyzaid/Healthy_Harbor)
