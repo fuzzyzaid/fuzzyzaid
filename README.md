@@ -5,12 +5,12 @@ I'm Zaid Alam, experienced Full-Stack Developer with 3+ years in designing, deve
 ## Work Experience
 
 ### Software Engineer F2 - Zensar Technologies (Dec 2021- Dec 2022)
-### Front-end Developer - Persistent System (Aug 2019 - Dec 2021)
+### Front-End Developer - Persistent Systems (Aug 2019 - Dec 2021)
 
 ## Self-Developed projects and organizations
 
-### [All Projects](https://github.com/fuzzyzaid?tab=repositories)
-### [All Organizatiosn](https://github.com/settings/organizations)
+### [Projects](https://github.com/fuzzyzaid?tab=repositories)
+### [Organizatiosn](https://github.com/settings/organizations)
  
 ## Contact
 
