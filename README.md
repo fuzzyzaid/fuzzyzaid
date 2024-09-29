@@ -10,7 +10,7 @@ I'm Zaid Alam, experienced Full-Stack Developer with 3+ years in designing, deve
 ## Self-Developed projects and organizations
 
 ### [Projects](https://github.com/fuzzyzaid?tab=repositories)
-### [Organizatiosn](https://github.com/settings/organizations)
+### [Organizations](https://github.com/settings/organizations)
  
 ## Contact
 
