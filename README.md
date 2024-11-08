@@ -15,5 +15,5 @@ I'm Zaid Alam, experienced Full-Stack Developer with 3+ years in designing, deve
 ## Contact
 
 - [My Portfolio](https://zaidalam.me/)
-- Email: <a href="mailto:zaidalam0731@gmail.com">zaidalam0731@gmail.com</a>
-- [LinkedIn](https://www.linkedin.com/in/zaid-alam/)
+- Email: <a href="mailto:zaid.alam0743@gmail.com">zaid.alam0743@gmail.com</a>
+- [LinkedIn](https://www.linkedin.com/in/zaidalamm/)
